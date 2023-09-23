@@ -1,0 +1,17 @@
+body{
+    background-color: #f7f7f7;
+}
+
+#table input:enabled {
+    border: 1px solid #aaa;
+    border-radius: 10px;
+}
+
+#table input:disabled {
+    border: none;
+    background-color: transparent;
+}
+
+.hide{
+    display: none;
+}
